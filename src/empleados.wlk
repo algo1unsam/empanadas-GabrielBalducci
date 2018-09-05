@@ -8,6 +8,7 @@ object gimenez {
 	method sueldo(nuevoValor) { sueldo = nuevoValor }
 }
 
+// falta modelar la deuda, y el dinero
 object baigorria {
 	var cantidadEmpanadasVendidas = 100
 	var montoPorEmpanada = 15
